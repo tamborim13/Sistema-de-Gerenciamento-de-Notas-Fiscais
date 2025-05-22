@@ -74,6 +74,7 @@ Projeto QT/
 💻 
 [Link](https://pytax.com.br/)
 ---
+Giovanni é Aluno Da PyTax
 
 ## 📄 Licença
 
