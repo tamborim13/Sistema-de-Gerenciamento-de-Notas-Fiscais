@@ -66,6 +66,7 @@ Projeto QT/
 
 ## 👤 Desenvolvedor
 
+---
 **Giovanni Tamborim** 
 ---
 **Nicolas almeida-PyTax**  
