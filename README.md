@@ -64,7 +64,7 @@ Projeto QT/
 
 ---
 
-## 👤 Desenvolvedor
+## 👤 Desenvolvedores
 
 **Giovanni Tamborim** 
 //
